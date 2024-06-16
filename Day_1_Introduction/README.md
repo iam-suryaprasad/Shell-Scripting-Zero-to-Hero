@@ -36,6 +36,7 @@ Introduction
       Monitor Jenkins and Send Automatic Email Alert When Application is Down
       Monitoring File System Usage and Send Automatic Email Alert When Your File System Usage is more than threshold let say 90%
       Shell Scripting is a great way to Automate repetitive tasks in our Unix/ Linux Environment.
+      Users can easily add comments to their bash scripts with the # symbol. It is extra useful if you’ve got a lengthy script that needs explaining on some lines.
 
 
             
