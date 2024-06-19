@@ -55,4 +55,5 @@ Introduction to Variables
      Name=“Shell Scripting”
      NewName=$Name
      NewName=${Name}
-     
+     Better to avoid CAPTIAL Letters For Variables as system variables are in CAPITALS, if you want to use check once
+     before creating it
